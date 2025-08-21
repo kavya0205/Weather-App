@@ -1,2 +1,1 @@
-# Weather-App
-heyoo pepolssss... Here is my Project which is a Weather App
+A sleek and responsive weather application built using HTML, CSS, and JavaScript, featuring real-time weather data fetching from a public API. Deployed and accessible at weatherappbykavya.netlify.app , this project allows users to effortlessly get current weather details — including temperature, humidity, and wind speed — for any city.
